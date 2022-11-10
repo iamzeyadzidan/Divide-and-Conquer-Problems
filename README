@@ -1,0 +1,16 @@
+This code was intended to solve divide and conquer problems issued by
+CSE321 Algorithms, 2022
+
+The problems were asking to implement:
+  1. Problem 1, Ith Order Statistic Selection Algorithms:
+    • Randomized Quick Selection
+    • Deterministic Selection
+
+  and use the previous methods to select the median of an array of integers.
+
+  The assignment asked the students to analyze the 2 methods and compare them together
+  with a naive sorting algorithm then extracting the median of the sorted array.
+
+  2. Problem 2, The Closest Pair of Points:
+    For an array of points, find the maximum side length of a square, having its point as a center, that can
+    be drawn such that no square intersects with the other. The squares can only be vertical or horizontal aligned.
